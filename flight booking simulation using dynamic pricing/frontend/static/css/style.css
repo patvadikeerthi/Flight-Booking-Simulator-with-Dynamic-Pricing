@@ -1,0 +1,6 @@
+/* frontend/static/css/style.css */
+body { background: #f8f9fa; }
+.navbar-brand { font-weight: 700; letter-spacing: 0.5px; }
+.container h1 { color: #0d6efd; }
+.flight-card { border-radius: 6px; background: #fff; padding: 16px; margin-bottom: 12px; box-shadow: 0 2px 6px rgba(0,0,0,0.04); }
+.small-muted { color: #6c757d; font-size: 0.9rem; }
